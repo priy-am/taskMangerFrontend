@@ -169,7 +169,7 @@ export default function Login() {
 
             {/* TOGGLE LINK */}
             <p className="text-center text-sm text-gray-600">
-              Don &apos t have an account?
+              Don&apos;t have an account?
               <span
                 className="text-[#3c65f5] hover:underline cursor-pointer"
                 onClick={() => {
